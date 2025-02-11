@@ -49,13 +49,15 @@ Here’s a sneak peek into the tools and languages I use to build awesome stuff:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
+- ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+- ![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white) 
 
 ---
 
 ## 📊 Let’s Explore the Stats:  
 ### 🛠️ **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgaonkar&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&theme=radical)  
 
 ### 🔥 **Current Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgaonkar&theme=radical)  
