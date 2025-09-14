@@ -24,6 +24,8 @@ Want to know more about my projects, internships, and goals? Keep scrolling!
 ## 🌟 Take Action:  
 **📌 Ready to connect?**  
 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yash-gaonkar-652003253)  
+👉 [![GitHub Main](https://img.shields.io/badge/GitHub-Main-black?style=for-the-badge&logo=github)](https://github.com/yashgaonkar18)  
+👉 [![GitHub Internship](https://img.shields.io/badge/GitHub-Internship-green?style=for-the-badge&logo=github)](https://github.com/YourInternshipUsername)  
 **📧 Have a project idea?** Reach out: **yashgaonkar2020@gmail.com**  
 
 ---
@@ -72,14 +74,31 @@ Want to know more about my projects, internships, and goals? Keep scrolling!
 ---
 
 ## 📊 Let’s Explore the Stats:  
-### 🛠️ **GitHub Stats**  
+
+### 🛠️ **GitHub Stats (Main Account)**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&theme=radical)  
 
-### 🔥 **Current Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgaonkar&theme=radical)  
+### 🔥 **Current Streak (Main Account)**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgaonkar18&theme=radical)  
 
-### 🌎 **Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgaonkar&layout=compact&theme=radical)  
+### 🌎 **Languages Used (Main Account)**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgaonkar18&layout=compact&theme=radical)  
+
+---
+
+## 🔑 Internship GitHub Profile  
+
+During my internship, I used a **separate GitHub account** for project work.  
+Here’s a snapshot of that profile:  
+
+### 🛠️ **GitHub Stats (Internship)**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashnexocide18&show_icons=true&theme=tokyonight)  
+
+### 🔥 **Current Streak (Internship)**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashnexocide18&theme=tokyonight)  
+
+### 🌎 **Languages Used (Internship)**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnexocide18&layout=compact&theme=tokyonight)  
 
 ---
 
