@@ -25,7 +25,7 @@ Want to know more about my projects, internships, and goals? Keep scrolling!
 **📌 Ready to connect?**  
 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yash-gaonkar-652003253)  
 👉 [![GitHub Main](https://img.shields.io/badge/GitHub-Main-black?style=for-the-badge&logo=github)](https://github.com/yashgaonkar18)  
-👉 [![GitHub Internship](https://img.shields.io/badge/GitHub-Internship-green?style=for-the-badge&logo=github)](https://github.com/YourInternshipUsername)  
+👉 [![GitHub Internship](https://img.shields.io/badge/GitHub-Internship-green?style=for-the-badge&logo=github)](https://github.com/yashnexocide18)  
 **📧 Have a project idea?** Reach out: **yashgaonkar2020@gmail.com**  
 
 ---
