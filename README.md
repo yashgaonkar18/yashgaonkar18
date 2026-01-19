@@ -113,7 +113,7 @@ Here’s a snapshot of that profile:
 ---
 
 ## 📄 Resume  
-📥 [Download My Resume](./ResumeYash.pdf)  
+📥 [Download My Resume](./YashFSresume.pdf)  
 
 ---
 
