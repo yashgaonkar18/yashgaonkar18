@@ -1,182 +1,287 @@
-# 🚀 Yash Gaonkar: Engineer. Innovator. Futurist.
+<div align="center">
 
-Welcome to my digital space! 🌌  
-I’m **Yash Gaonkar**, a **4th-year IT Engineering student** at **Goa College of Engineering**, passionate about building innovative solutions with modern technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=250&section=header&text=Hi%20There,%20I'm%20Yash%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=55&descAlign=50" width="100%"/>
 
-I specialize in **Full Stack Development, AI-powered applications, and scalable backend systems**, constantly exploring ways to create impactful digital experiences.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF79C6&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Full+Stack+Developer+(MERN+Stack);Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Machine+Learning+%26+Cloud+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-# 👀 Who Am I?
+![Profile Views](https://komarev.com/ghpvc/?username=yashgaonkar18&color=BD93F9&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/yashgaonkar18?style=for-the-badge&color=8BE9FD&logo=github&logoColor=black)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:yashgaonkar2020@gmail.com)
 
-- 💡 Curious **technology enthusiast**
-- 🛠️ **Full Stack Developer (MERN Stack)**
-- 🧠 Exploring **Artificial Intelligence & Machine Learning**
-- ☁️ Learning **Cloud Computing & AWS**
-- 🚀 Passionate about building **real-world impactful products**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<br/>
 
-# 🔍 My Mission
+**[About](#about) · [Tech Stack](#stack) · [Experience](#experience) · [Projects](#projects) · [Achievements](#achievements) · [GitHub Stats](#analytics) · [Connect](#connect)**
 
-🎯 Master **Full Stack Development**
+</div>
 
-🎯 Strengthen **Data Structures & Algorithms**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
 
-🎯 Explore **Artificial Intelligence & Machine Learning**
+<a name="about"></a>
 
-🎯 Build scalable **Cloud-based applications**
+### 👨‍💻 About Me
 
-🎯 Contribute to **innovative open-source projects**
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+- 🎓 Final-year **BE in Information Technology** student at **Goa College of Engineering** *(2022 – 2026)* — CGPA **8.93**
+- 🛠️ **Full Stack Developer** specializing in the **MERN Stack** + **TypeScript**
+- 🧠 Growing specialization in **Artificial Intelligence & Machine Learning**
+- ☁️ Learning **Cloud Computing** and modern **DevOps** tooling
+- 🌱 Currently building **BiasBuster** — an AI fairness analysis & bias mitigation platform
+- ⚡ Fun fact: I ship side projects that actually get real users, not just demos
+- 📫 Reach me at **yashgaonkar2020@gmail.com**
 
-# 🌟 Connect With Me
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938bf6d1-a1fe-4a89-b1c2-3f7c00933e29.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-📌 **LinkedIn**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yash-gaonkar-652003253)
+**🎓 Education Timeline**
 
-📌 **GitHub (Main)**  
-[![GitHub](https://img.shields.io/badge/GitHub-Main-black?style=for-the-badge&logo=github)](https://github.com/yashgaonkar18)
+| Institute | Degree | Duration | Score |
+|---|---|:---:|:---:|
+| Goa College of Engineering | BE in Information Technology | 2022 – 2026 | CGPA 8.93 |
+| Shri Damodar Vidyalaya, Loliem Canacona | High School | 2014 – 2020 | Passed with Distinction |
 
-📌 **GitHub (Internship)**  
-[![GitHub](https://img.shields.io/badge/GitHub-Internship-green?style=for-the-badge&logo=github)](https://github.com/yashnexocide18)
+<a name="stack"></a>
 
-📧 **Email**  
-yashgaonkar2020@gmail.com
+### ⚡ Quick Glance
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,django,mongodb,mysql,postgres,firebase,git,github,docker,postman,vercel,figma,aws&perline=13&theme=dark" />
+</div>
 
-# 💻 My Toolkit
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
 
-## 🔧 Programming Languages
+<a name="experience"></a>
 
-- ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+### 💼 Experience
 
----
+<table>
+<tr>
+<td width="100%">
 
-## 🛠️ Frameworks & Backend
+**Full Stack Development Intern** · *Nexocide Private Limited*  
+`July 2025 – September 2025` · Goa, India
 
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+- Developed responsive web interfaces using **React.js, Next.js & Tailwind CSS**, improving usability across desktop and mobile
+- Designed and integrated **RESTful APIs** using **Node.js & Express.js** for efficient frontend-backend communication
+- Integrated **Firebase Authentication, Cloud Storage & Firestore** for secure auth and real-time data management
+- Optimized application performance by identifying and fixing bugs, improving code quality and maintainability
+- Collaborated with cross-functional teams using **Git & GitHub** to ship production-ready features on schedule
 
----
+</td>
+</tr>
+</table>
 
-## 🧠 Artificial Intelligence & Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
 
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
-- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?logo=openai&logoColor=white)
-- ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-- ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)
-- ![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?logo=google&logoColor=white)
+<a name="techstack"></a>
 
----
+### 🛠️ Tech Stack
 
-## 🗄️ Databases
+<div align="center">
 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## ⚡ Tools & Platforms
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-- ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
-- ![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+**AI / Machine Learning**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-# 💼 Experience
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Full Stack Developer Intern  
-### Nexocide Pvt. Ltd. | July 2025 – September2025
+</div>
 
-- Developed scalable web applications using the **MERN Stack**
-- Built responsive UI using **React.js, Next.js, and TailwindCSS**
-- Integrated **REST APIs** for efficient frontend-backend communication
-- Implemented backend logic using **Node.js & Express.js**
-- Collaborated with team members using **Git & GitHub workflows**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
 
----
+<a name="projects"></a>
 
-# 🚀 Currently Building
+### 🚀 Featured Projects
 
-- ✈️ **BiasBuster AI/ML Mitigation Toolkit**  
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🛒 ShopPilot AI
+**AI-Powered Inventory & Sales SaaS**
 
-# 📊 GitHub Stats
+Full-stack multi-tenant **MERN & TypeScript SaaS** platform automating inventory management for real, active users.
 
-## Main GitHub Profile
+- Autonomous AI agents (Gemini + node-cron) tracking low-stock thresholds & dispatching real-time alerts
+- Secure multi-tenancy with JWT-isolated data
+- Razorpay subscription billing + WhatsApp invoice delivery via deep-linking
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&theme=radical)
+`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Razorpay` `Docker` `Tailwind CSS`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgaonkar18&theme=radical)
+</td>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgaonkar18&layout=compact&theme=radical)
+#### 🧠 AI Code Reviewer
+**Intelligent Code Review Platform**
 
----
+Full-stack MERN application that reviews submitted code and returns feedback via natural language prompts.
 
-# 🔑 Internship GitHub Profile
+- Gemini API integration for contextual analysis, optimization tips & bug/anti-pattern detection
+- Real-time code input, syntax highlighting & interactive AI conversations
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashnexocide18&show_icons=true&theme=tokyonight)
+`React` `Node.js` `Express.js` `Gemini API` `Tailwind CSS`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashnexocide18&theme=tokyonight)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnexocide18&layout=compact&theme=tokyonight)
+#### ⚖️ BiasBuster
+**AI Fairness Analysis & Bias Mitigation Platform** · *Final Year Project*
 
----
+Platform for detecting, visualizing, and reducing bias in ML models.
 
-# 📌 Featured Projects
+- Responsive dashboard with dataset upload & model comparison views
+- Backend services for fairness metric evaluation, mitigation workflows & report generation
 
-## 🧠 AI Code Reviewer
-Full-stack MERN application with Gemini API that performs intelligent code reviews, syntax highlighting, and bug detection.
+`React` `TypeScript` `FastAPI` `Python` `Scikit-learn` `Fairlearn` `AIF360` `PostgreSQL`
 
-## 📋 Employee Task Management System
-Web-based task management platform using **PHP, SQL, HTML, CSS** for efficient task assignment and tracking.
+</td>
+<td width="50%" valign="top">
 
----
+#### 📋 Employee Task Management System
+**Web-based Task Tracking Platform**
 
-# 📄 Resume
+A platform for efficient task assignment and tracking across teams.
 
-📥 **Download My Resume**  
-[Download Resume](./YashFSresume.pdf)
+`PHP` `SQL` `HTML` `CSS`
 
----
+</td>
+</tr>
+</table>
 
-# ✍️ Thought for Innovators
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
 
-> “When something is important enough, you do it even if the odds are not in your favor.”  
+<a name="achievements"></a>
+
+### 🏆 Achievements
+
+| Year | Achievement |
+|:----:|-------------|
+| 2024 | 🎖️ **Google for Developers** — Android Developer Virtual Internship |
+| 2022 | 🎖️ **TechFest, IIT Bombay** — Attended Android Development Workshop |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
+
+<a name="analytics"></a>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgaonkar18&theme=dracula&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgaonkar18&layout=compact&theme=dracula&hide_border=true" height="165"/>
+
+<br/>
+
+<details>
+<summary><b>🔑 Internship GitHub Profile (yashnexocide18)</b></summary>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashnexocide18&show_icons=true&theme=onedark&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashnexocide18&theme=onedark&hide_border=true" height="165"/>
+</details>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgaonkar18&theme=dracula&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashgaonkar18&theme=dracula&no-frame=true&row=1&column=7" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
+
+<div align="center">
+
+### 😄 Random Dev Joke, On Me
+
+<img src="https://readme-jokes.vercel.app/api" width="450"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
+
+<a name="connect"></a>
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gaonkar-652003253)
+[![GitHub](https://img.shields.io/badge/GitHub-Main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashgaonkar18)
+[![GitHub](https://img.shields.io/badge/GitHub-Internship-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashnexocide18)
+[![Gmail](https://img.shields.io/badge/Email-yashgaonkar2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgaonkar2020@gmail.com)
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:bd93f9&height=3&width=100%" width="100%"/>
+
+<div align="center">
+
+> *"When something is important enough, you do it even if the odds are not in your favor."*  
 > — **Elon Musk**
 
----
+<br/>
 
-# 🚀 Future Vision
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-🌌 Build impactful products using **AI, Cloud, and Full Stack Technologies**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:282a36&height=120&section=footer" width="100%"/>
 
-🌌 Contribute to **open-source innovation**
-
-🌌 Work on technologies that shape the **future of computing and space exploration**
+</div>
