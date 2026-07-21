@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF00FF,50:00FFFF,75:39FF14,100:0D1117&height=200&section=header&text=YASH.EXE&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=62&descSize=18&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF00FF,50:00FFFF,75:39FF14,100:0D1117&height=220&section=header&text=YASH.EXE&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=39FF14" width="100%"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=00FFFF,FF00FF,39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+YASH+GAONKAR;%3E+FULL+STACK+DEVELOPER+%7C+MERN;%3E+AI+%2F+ML+ENTHUSIAST;%3E+STATUS%3A+OPEN_TO_OPPORTUNITIES_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=00FFFF,FF00FF,39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=200&lines=%3E+YASH+GAONKAR;%3E+FULL+STACK+DEVELOPER+%7C+MERN;%3E+AI+%2F+ML+ENTHUSIAST;%3E+STATUS%3A+OPEN_TO_OPPORTUNITIES_" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -58,7 +58,7 @@
 
 ### ⚙ TOOLCHAIN
 
-<img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,django,mongodb,mysql,postgres,firebase,git,github,docker,figma,aws&perline=12&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres,firebase,git,github,docker,figma,aws&perline=12&theme=dark" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
@@ -68,7 +68,12 @@
 ┌──────────────────────────────────────────────────────────────────┐
 │  NEURAL_STACK  [AI / ML]                                          │
 ├──────────────────────────────────────────────────────────────────┤
-│  scikit-learn · Pandas · NumPy · Fairlearn · AIF360 · Gemini API  │
+│  scikit-learn · Pandas · NumPy · Fairlearn · AIF360               │
+│  LLMs · LangChain · RAG (Retrieval-Augmented Generation)          │
+│  Prompt Engineering · Model Fine-tuning/Training · Gemini API     │
+│  Hugging Face (Transformers · Datasets · Hub) · OpenAI API        │
+│  Vector DBs (FAISS/Pinecone/ChromaDB) · PyTorch · TensorFlow      │
+│  NLP (spaCy/NLTK) · Streamlit/Gradio (ML demo apps)               │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
