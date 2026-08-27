@@ -1,164 +1,187 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF00FF,50:00FFFF,75:39FF14,100:0D1117&height=220&section=header&text=YASH.EXE&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,50:0284C7,100:BAE6FD&height=210&section=header&text=Yash%20Gaonkar&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%2FML%20Enthusiast%20&descAlignY=58&descSize=14&descColor=E0F2FE" width="100%"/>
+
+<br>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  root@yashgaonkar18:~$ whoami                                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=0284C7&background=FFFFFF00&center=true&vCenter=true&width=600&height=35&lines=Building+with+the+MERN+stack;Exploring+AI+%2F+ML+fairness+research;Open+to+new+opportunities" alt="intro" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=00FFFF,FF00FF,39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=200&lines=%3E+YASH+GAONKAR;%3E+FULL+STACK+DEVELOPER+%7C+MERN;%3E+AI+%2F+ML+ENTHUSIAST;%3E+STATUS%3A+OPEN_TO_OPPORTUNITIES_" alt="Typing SVG" />
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yashgaonkar18&color=FF00FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yashgaonkar18?style=for-the-badge&color=00FFFF&logo=github&logoColor=black&label=FOLLOWERS)
-[![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=terminal&logoColor=black)](mailto:yashgaonkar2020@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:39FF14&height=3&width=100%" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=yashgaonkar18&color=0284C7&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/yashgaonkar18?style=flat-square&color=0EA5E9&logo=github&logoColor=white&label=Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=38BDF8&label=Repos&query=public_repos&url=https://api.github.com/users/yashgaonkar18&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_to-Opportunities-BAE6FD?style=flat-square&labelColor=0F172A&color=BAE6FD&logoColor=0F172A" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=2&width=100%" width="100%"/>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  SUBJECT                                                          │
-├──────────────────────────────────────────────────────────────────┤
-│  NAME     : Yash Gaonkar                                          │
-│  ROLE     : Full Stack Developer (MERN) · AI/ML Enthusiast        │
-│  EDU      : BE, Information Technology — Goa College of Eng.      │
-│  DURATION : 2022 — 2026  |  CGPA : 8.93                            │
-│  LOCATION : Goa, India                                            │
-│  MAIL     : yashgaonkar2020@gmail.com                             │
-│  BUILDING : BiasBuster — AI fairness & bias mitigation platform   │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:39FF14&height=2&width=100%" width="100%"/>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  EXPERIENCE_LOG                                                   │
-├──────────────────────────────────────────────────────────────────┤
-│  [2025.07 - 2025.09] Full Stack Dev Intern @ Nexocide Pvt. Ltd.   │
-│    > Built React/Next.js/Tailwind interfaces                      │
-│    > Shipped REST APIs with Node.js + Express.js                  │
-│    > Wired up Firebase Auth, Firestore & Cloud Storage            │
-│    > Shipped production features via Git/GitHub with a team       │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FFEE00&height=2&width=100%" width="100%"/>
-
-<div align="center">
-
-### ⚙ TOOLCHAIN
-
-<img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres,firebase,git,github,docker,figma,aws&perline=12&theme=dark" />
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  NEURAL_STACK  [AI / ML]                                          │
-├──────────────────────────────────────────────────────────────────┤
-│  scikit-learn · Pandas · NumPy · Fairlearn · AIF360               │
-│  LLMs · LangChain · RAG (Retrieval-Augmented Generation)          │
-│  Prompt Engineering · Model Fine-tuning/Training · Gemini API     │
-│  Hugging Face (Transformers · Datasets · Hub) · OpenAI API        │
-│  Vector DBs (FAISS/Pinecone/ChromaDB) · PyTorch · TensorFlow      │
-│  NLP (spaCy/NLTK) · Streamlit/Gradio (ML demo apps)               │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFEE00,100:FF4500&height=2&width=100%" width="100%"/>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  PROCESSES  [FEATURED PROJECTS]                                   │
-├──────────────────────────────────────────────────────────────────┤
-│  PID 01  ShopPilot AI                                             │
-│    > Multi-tenant SaaS: inventory + sales automation              │
-│    > AI agents (Gemini + node-cron) for stock alerts              │
-│    > JWT multi-tenancy · Razorpay billing · WhatsApp invoices     │
-│    > [React · TS · Node · Express · MongoDB · Docker]             │
-│                                                                    │
-│  PID 02  AI Code Reviewer                                         │
-│    > Gemini-powered code review with natural-language feedback    │
-│    > Bug / anti-pattern detection + optimization tips             │
-│    > [React · Node · Express · Gemini API · Tailwind]             │
-│                                                                    │
-│  PID 03  BiasBuster  (final year project)                         │
-│    > Detects, visualizes & mitigates ML model bias                │
-│    > Fairness metrics, dataset upload, model comparison           │
-│    > [React · TS · FastAPI · Fairlearn · AIF360 · PostgreSQL]     │
-│                                                                    │
-│  PID 04  Employee Task Management System                          │
-│    > Web platform for task assignment & tracking                  │
-│    > [PHP · SQL · HTML · CSS]                                     │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4500,100:FF00FF&height=2&width=100%" width="100%"/>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  ACHIEVEMENTS_LOG                                                  │
-├──────────────────────────────────────────────────────────────────┤
-│  [2024] Google for Developers — Android Dev Virtual Internship    │
-│  [2022] TechFest, IIT Bombay — Android Development Workshop       │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=2&width=100%" width="100%"/>
-
-<div align="center">
-
-### 📊 GITHUB_STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=39FF14&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgaonkar18&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=39FF14" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgaonkar18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgaonkar18&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=39FF14" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashgaonkar18&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  CONTACT                                                          │
-├──────────────────────────────────────────────────────────────────┤
-│  LINKEDIN : linkedin.com/in/yash-gaonkar-652003253                │
-│  GITHUB   : github.com/yashgaonkar18                              │
-│  MAIL     : yashgaonkar2020@gmail.com                             │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gaonkar-652003253)
-[![GitHub](https://img.shields.io/badge/GITHUB-MAIN-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yashgaonkar18)
-[![Gmail](https://img.shields.io/badge/EMAIL-CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:yashgaonkar2020@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
 
 <br>
 
-```
-> "When something is important enough, you do it even if the odds are not in your favor." — Elon Musk
-```
+## ❄️ About
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=400&color=39FF14&background=0D1117&center=true&vCenter=true&width=400&height=40&lines=root%40yashgaonkar18%3A~%24+%E2%96%88" alt="cursor" />
+| | |
+|:---|:---|
+| 🎓 &nbsp; **Education** | BE, Information Technology — Goa College of Engineering &nbsp;·&nbsp; 2022–2026 &nbsp;·&nbsp; CGPA 8.93 |
+| 💼 &nbsp; **Currently building** | BiasBuster — an AI fairness & bias mitigation platform |
+| 📍 &nbsp; **Based in** | Goa, India |
+| ✉️ &nbsp; **Email** | yashgaonkar2020@gmail.com |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:39FF14,50:00FFFF,75:FF00FF,100:0D1117&height=120&section=footer" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ❄️ Skills
+
+<br>
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=BAE6FD" />
+<img src="https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=BAE6FD" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=BAE6FD" />
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=BAE6FD" />
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=BAE6FD" />
+
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-0284C7?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-0284C7?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0284C7?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-0284C7?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0284C7?style=flat-square&logo=css3&logoColor=white" />
+
+<br><br>
+
+**Backend & Data**
+<br>
+<img src="https://img.shields.io/badge/Node.js-0EA5E9?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-0EA5E9?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0EA5E9?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-0EA5E9?style=flat-square&logo=firebase&logoColor=white" />
+
+<br><br>
+
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-38BDF8?style=flat-square&logo=pytorch&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/TensorFlow-38BDF8?style=flat-square&logo=tensorflow&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/scikit--learn-38BDF8?style=flat-square&logo=scikitlearn&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/Hugging_Face-38BDF8?style=flat-square&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/LangChain-38BDF8?style=flat-square&logoColor=0F172A" />
+
+<br><br>
+
+**Tools & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Git-BAE6FD?style=flat-square&logo=git&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/Docker-BAE6FD?style=flat-square&logo=docker&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/AWS-BAE6FD?style=flat-square&logo=amazonaws&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/Figma-BAE6FD?style=flat-square&logo=figma&logoColor=0F172A" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ❄️ Experience
+
+> **Full Stack Developer Intern** — Nexocide Pvt. Ltd. &nbsp; `Jul 2025 – Sep 2025`
+>
+> Built interfaces in React/Next.js/Tailwind, shipped REST APIs with Node.js + Express, wired up Firebase Auth/Firestore/Cloud Storage, and delivered production features as part of a team using Git/GitHub.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ❄️ Featured Projects
+
+| Project | Highlights | Stack |
+|:---|:---|:---|
+| **ShopPilot AI** | Multi-tenant SaaS for inventory & sales automation, with Gemini + node-cron agents for stock alerts, JWT multi-tenancy, Razorpay billing, and WhatsApp invoices | React · TS · Node · Express · MongoDB · Docker |
+| **AI Code Reviewer** | Gemini-powered code review that gives natural-language feedback, flags bugs/anti-patterns, and suggests optimizations | React · Node · Express · Gemini API · Tailwind |
+| **BiasBuster** *(final year project)* | Detects, visualizes, and helps mitigate bias in ML models — fairness metrics, dataset upload, model comparison | React · TS · FastAPI · Fairlearn · AIF360 · PostgreSQL |
+| **Employee Task Management System** | Web platform for assigning and tracking employee tasks | PHP · SQL · HTML · CSS |
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ❄️ Achievements
+
+- 🏅 &nbsp; Google for Developers — Android Development Virtual Internship &nbsp; *(2024)*
+- 🏅 &nbsp; TechFest, IIT Bombay — Android Development Workshop &nbsp; *(2022)*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ❄️ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&hide_border=true&bg_color=F0F9FF&title_color=0284C7&icon_color=0EA5E9&text_color=0F172A&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=yashgaonkar18&hide_border=true&background=F0F9FF&ring=0284C7&fire=0EA5E9&currStreakLabel=0284C7&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&border_radius=10" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgaonkar18&layout=compact&hide_border=true&bg_color=F0F9FF&title_color=0284C7&text_color=0F172A&border_radius=10" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgaonkar18&bg_color=F0F9FF&color=0F172A&line=0284C7&point=0EA5E9&hide_border=true&area=true&area_color=BAE6FD" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashgaonkar18&theme=flat&no-frame=true&row=1&column=7&title.color=0284C7&icon.color=0EA5E9&text.color=0F172A" width="90%"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0284C7,100:BAE6FD&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ❄️ Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yash-gaonkar-652003253"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yashgaonkar18"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:yashgaonkar2020@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashgaonkar18/yashgaonkar18/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:BAE6FD,50:0284C7,100:0F172A&height=100&section=footer" width="100%"/>
