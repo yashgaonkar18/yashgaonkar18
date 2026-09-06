@@ -45,7 +45,8 @@ module.exports = (req, res) => {
 </svg>`.trim();
 
   res.setHeader("Content-Type", "image/svg+xml");
-  // Prevent caching so every load recomputes the current age
-  res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+  // Short max-age instead of strict no-store — GitHub's image proxy (camo)
+  // handles this more reliably, and the badge still updates every ~5s.
+  res.setHeader("Cache-Control", "public, max-age=5, s-maxage=5");
   res.status(200).send(svg);
 };
