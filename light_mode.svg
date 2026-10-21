@@ -54,6 +54,6 @@ text, tspan {white-space: pre;}
 <tspan x="400" y="470" class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .......................................... </tspan><tspan class="value" id="repo_data">21</tspan>
 <tspan x="400" y="490" class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........................................... </tspan><tspan class="value" id="star_data">3</tspan>
 <tspan x="400" y="510" class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ...................................... </tspan><tspan class="value" id="follower_data">10</tspan>
-<tspan x="400" y="530" class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ....................................... </tspan><tspan class="value" id="commit_data">123</tspan>
+<tspan x="400" y="530" class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ....................................... </tspan><tspan class="value" id="commit_data">124</tspan>
 </text>
 </svg>
