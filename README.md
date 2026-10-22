@@ -1,135 +1,129 @@
-# 🚀 Yash Gaonkar: Engineer. Innovator. Futurist.
+# 🚀 Yash Gaonkar | Software Engineer · AI Innovator
 
-Welcome to my digital space! 🌌  
-I’m **Yash Gaonkar**, a **4th-year IT Engineering student** at **Goa College of Engineering**, passionate about building innovative solutions with modern technologies.
+Welcome to my digital space! 🌌
 
-I specialize in **Full Stack Development, AI-powered applications, and scalable backend systems**, constantly exploring ways to create impactful digital experiences.
+I'm **Yash Gaonkar**, an **Information Technology Engineering graduate from Goa College of Engineering (2022–2026)**, passionate about building innovative software solutions using modern technologies.
 
----
-
-# 👀 Who Am I?
-
-- 💡 Curious **technology enthusiast**
-- 🛠️ **Full Stack Developer (MERN Stack)**
-- 🧠 Exploring **Artificial Intelligence & Machine Learning**
-- ☁️ Learning **Cloud Computing & AWS**
-- 🚀 Passionate about building **real-world impactful products**
+I specialize in **Full Stack Development, AI-powered applications, and scalable backend systems**, with a strong interest in Artificial Intelligence, AI agents, and cloud computing.
 
 ---
 
-# 🔍 My Mission
+## 👨‍💻 About Me
 
-🎯 Master **Full Stack Development**
-
-🎯 Strengthen **Data Structures & Algorithms**
-
-🎯 Explore **Artificial Intelligence & Machine Learning**
-
-🎯 Build scalable **Cloud-based applications**
-
-🎯 Contribute to **innovative open-source projects**
+- 🎓 **B.E. in Information Technology** — Goa College of Engineering
+- 📊 **CGPA:** 8.95/10
+- 💻 **Full Stack Developer** — MERN Stack
+- 🧠 Exploring **AI, Machine Learning, LLMs, and AI Agents**
+- ⚙️ Building scalable backend systems and REST APIs
+- ☁️ Exploring cloud computing, Docker, and CI/CD
+- 🚀 Passionate about building real-world products
 
 ---
 
-# 🌟 Connect With Me
+## 🎯 My Goals
 
-📌 **LinkedIn**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yash-gaonkar-652003253)
+- Build production-ready full-stack applications
+- Develop intelligent AI-powered applications and autonomous agents
+- Strengthen Data Structures & Algorithms and System Design
+- Explore LLMs, RAG, and vector databases
+- Build scalable cloud-based solutions
+- Contribute to open-source projects
 
-📌 **GitHub (Main)**  
+---
+
+## 🌟 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-gaonkar-652003253)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Main-black?style=for-the-badge&logo=github)](https://github.com/yashgaonkar18)
 
-📌 **GitHub (Internship)**  
 [![GitHub](https://img.shields.io/badge/GitHub-Internship-green?style=for-the-badge&logo=github)](https://github.com/yashnexocide18)
 
-📧 **Email**  
-yashgaonkar2020@gmail.com
+📧 **Email:** yashgaonkar2020@gmail.com
 
 ---
 
-# 💻 My Toolkit
+## 💻 Tech Stack
 
-## 🔧 Programming Languages
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
-- ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
----
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-## 🛠️ Frameworks & Backend
-
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-
----
-
-## 🧠 Artificial Intelligence & Machine Learning
-
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
-- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?logo=openai&logoColor=white)
-- ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-- ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)
-- ![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?logo=google&logoColor=white)
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+## 💼 Experience
 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+### Full Stack Development Intern — Nexocide Private Limited
+**July 2025 – September 2025**
 
----
-
-## ⚡ Tools & Platforms
-
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-- ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
-- ![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+- Developed responsive interfaces using React.js, Next.js, and Tailwind CSS.
+- Built full-stack features using the MERN stack.
+- Designed and integrated RESTful APIs using Node.js and Express.js.
+- Implemented Firebase authentication, cloud storage, and real-time database synchronization.
+- Collaborated with team members to debug issues and deliver production-ready features.
 
 ---
 
-# 💼 Experience
+## 🚀 Featured Projects
 
-## Full Stack Developer Intern  
-### Nexocide Pvt. Ltd. | July 2025 – September2025
+### 🛍️ ShopPilot AI — AI-Powered Inventory & Sales SaaS
 
-- Developed scalable web applications using the **MERN Stack**
-- Built responsive UI using **React.js, Next.js, and TailwindCSS**
-- Integrated **REST APIs** for efficient frontend-backend communication
-- Implemented backend logic using **Node.js & Express.js**
-- Collaborated with team members using **Git & GitHub workflows**
+- Built a multi-tenant SaaS platform using MERN and TypeScript.
+- Developed AI agents using Google Gemini API and node-cron to monitor low-stock thresholds and trigger alerts.
+- Implemented JWT-secured tenant isolation and Razorpay subscription billing.
+- Integrated WhatsApp invoice delivery.
+
+**Tech:** React, TypeScript, Node.js, Express.js, MongoDB, Gemini API, Razorpay, Docker.
+
+### 🏃 Metrik — AI-Powered Fitness Tracker & Coaching App
+
+- Built a GPS workout tracking application using React Native and Expo.
+- Implemented real-time route mapping, telemetry charts, and route playback.
+- Developed an asynchronous FastAPI backend with Supabase and PostgreSQL.
+- Integrated an LLM-powered coaching agent for personalized training plans.
+
+**Tech:** React Native, Expo, FastAPI, PostgreSQL, Supabase, Firebase.
+
+### 🧠 BiasBuster — AI Fairness & Bias Mitigation Platform
+
+- Developed an AI fairness platform for detecting, visualizing, and reducing machine learning model bias.
+- Built dataset upload, fairness dashboards, and model comparison interfaces.
+- Developed REST APIs for fairness metrics, mitigation workflows, and report generation.
+
+**Tech:** React, TypeScript, Tailwind CSS, FastAPI, Python, Scikit-learn, Fairlearn, AIF360, PostgreSQL.
 
 ---
 
-# 🚀 Currently Building
-
-- ✈️ **BiasBuster AI/ML Mitigation Toolkit**  
-
----
-
-# 📊 GitHub Stats
-
-## Main GitHub Profile
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgaonkar18&show_icons=true&theme=radical)
 
@@ -139,44 +133,17 @@ yashgaonkar2020@gmail.com
 
 ---
 
-# 🔑 Internship GitHub Profile
+## 🏆 Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashnexocide18&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashnexocide18&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnexocide18&layout=compact&theme=tokyonight)
+- Google for Developers — Android Developer Virtual Internship (2024)
+- TechFest, IIT Bombay — Android Development Workshop (2022)
 
 ---
 
-# 📌 Featured Projects
+## 🌌 Future Vision
 
-## 🧠 AI Code Reviewer
-Full-stack MERN application with Gemini API that performs intelligent code reviews, syntax highlighting, and bug detection.
+Building impactful products at the intersection of **AI, Full Stack Development, and Cloud Computing**, while exploring technologies that shape the future of software engineering.
 
-## 📋 Employee Task Management System
-Web-based task management platform using **PHP, SQL, HTML, CSS** for efficient task assignment and tracking.
+> "When something is important enough, you do it even if the odds are not in your favor."
 
----
-
-# 📄 Resume
-
-📥 **Download My Resume**  
-[Download Resume](./YashFSresume.pdf)
-
----
-
-# ✍️ Thought for Innovators
-
-> “When something is important enough, you do it even if the odds are not in your favor.”  
-> — **Elon Musk**
-
----
-
-# 🚀 Future Vision
-
-🌌 Build impactful products using **AI, Cloud, and Full Stack Technologies**
-
-🌌 Contribute to **open-source innovation**
-
-🌌 Work on technologies that shape the **future of computing and space exploration**
+— Elon Musk
